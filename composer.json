@@ -13,7 +13,8 @@
     "require": {
         "php": ">=7.4",
         "gpupo/common": "^5.0",
-        "gpupo/common-sdk": "*"
+        "gpupo/common-sdk": "*",
+        "thecodingmachine/graphqlite": "^4.0"
     },
     "autoload": {
         "psr-4": {
