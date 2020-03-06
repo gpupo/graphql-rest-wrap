@@ -3,8 +3,8 @@ layout: default
 ---
 Common PHP tool for require-dev env
 
-[![Build Status](https://secure.travis-ci.org/gpupo/common-dev.png?branch=master)](http://travis-ci.org/gpupo/common-dev)
-[![Actions Status](https://github.com/gpupo/common-dev/workflows/CI/badge.svg)](https://github.com/gpupo/common-dev/actions)
+[![Build Status](https://secure.travis-ci.org/gpupo/graphql-rest-wrap.png?branch=master)](http://travis-ci.org/gpupo/graphql-rest-wrap)
+[![Actions Status](https://github.com/gpupo/graphql-rest-wrap/workflows/CI/badge.svg)](https://github.com/gpupo/graphql-rest-wrap/actions)
 
 ## Requisitos para uso
 
@@ -50,7 +50,7 @@ Proibido:
 
 Adicione o pacote ao seu projeto utilizando [composer](http://getcomposer.org):
 
-    composer require --dev gpupo/common-dev
+    composer require gpupo/graphql-rest-wrap
 
 ## Instalação para desenvolvimento
 

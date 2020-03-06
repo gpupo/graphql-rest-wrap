@@ -1,32 +1,28 @@
 {
-    "name": "gpupo/common-dev",
-    "description": "Common PHP tool for require-dev env",
-    "homepage": "https://opensource.gpupo.com/common-dev/",
+    "name": "gpupo/graphql-rest-wrap",
+    "description": "Wrap a REST API with GraphQL",
+    "homepage": "https://opensource.gpupo.com/graphql-rest-wrap/",
     "authors": [
         {
             "name": "Gilmar Pupo",
             "email": "contact@gpupo.com"
         }
     ],
-    "keywords": ["common", "development"],
+    "keywords": ["rest", "graphql"],
     "license": "MIT",
     "require": {
         "php": ">=7.4",
-        "phpunit/phpunit": "^8.5",
-        "phan/phan": "^2.4.5",
-        "vimeo/psalm": "^3.7",
-        "symfony/var-dumper": "^5.0",
-        "symfony/finder": "^5.0",
-        "symfony/dotenv": "^5.0"
+        "gpupo/common": "^5.0",
+        "gpupo/common-sdk": "*"
     },
     "autoload": {
         "psr-4": {
-            "Gpupo\\CommonDev\\": "src",
-            "Gpupo\\CommonDev\\Tests\\": "tests"
+            "Gpupo\\GraphqlRestWrap\\": "src",
+            "Gpupo\\GraphqlRestWrap\\Tests\\": "tests"
         }
     },
     "require-dev": {
-        "gpupo/common-sdk": "*"
+        "gpupo/common-dev": "^5.0"
     },
     "scripts": {
         "test": "phpunit"

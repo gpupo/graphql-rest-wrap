@@ -1,6 +1,6 @@
 <?php
 
-use Gpupo\CommonDevExtra\CsConfigurator;
+use Gpupo\GraphqlRestWrapExtra\CsConfigurator;
 
 $packageInfo = [
     'project' => 'gpupo/{project}',

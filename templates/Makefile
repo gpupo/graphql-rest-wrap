@@ -12,9 +12,9 @@ ifneq ($(wildcard vendor/gpupo/common-sdk/bin/make-file/targets/*),)
     include vendor/gpupo/common-sdk/bin/make-file/functions/*
     include vendor/gpupo/common-sdk/bin/make-file/targets/*
 endif
-#gpupo/common-dev
-ifneq ($(wildcard vendor/gpupo/common-dev/bin/make-file/targets/*),)
-	include vendor/gpupo/common-dev/bin/make-file/targets/*
+#gpupo/graphql-rest-wrap
+ifneq ($(wildcard vendor/gpupo/graphql-rest-wrap/bin/make-file/targets/*),)
+	include vendor/gpupo/graphql-rest-wrap/bin/make-file/targets/*
 endif
 
 ## Install vendores
