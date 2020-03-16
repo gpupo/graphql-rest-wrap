@@ -11,17 +11,9 @@
     "keywords": ["rest", "graphql"],
     "license": "MIT",
     "require": {
-        "php": ">=7.4",
-        "gpupo/pack-symfony-common": "^1.0",        
-        "gpupo/common": "^5.0",
+        "gpupo/pack-symfony-common": "^2.0",        
         "beberlei/porpaginas": "^1.2",
         "myclabs/php-enum": "^1.7",
-        "symfony/apache-pack": "^1.0",
-        "symfony/intl": "5.0.*",
-        "symfony/mailer": "5.0.*",
-        "symfony/monolog-bundle": "^3.1",
-        "symfony/notifier": "5.0.*",
-        "symfony/string": "5.0.*",
         "thecodingmachine/graphqlite-bundle": "^4.0"
     },
     "autoload": {
