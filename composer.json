@@ -11,7 +11,7 @@
     "keywords": ["rest", "graphql"],
     "license": "MIT",
     "require": {
-        "gpupo/pack-symfony-common": "^2.0|dev-master",        
+        "gpupo/pack-symfony-common": "^4.0",
         "beberlei/porpaginas": "^1.2",
         "myclabs/php-enum": "^1.7",
         "thecodingmachine/graphqlite-bundle": "^4.0"
