@@ -23,7 +23,7 @@
         }
     },
     "require-dev": {
-        "gpupo/common-dev": "^5.0"
+        "gpupo/common-dev": "*"
     },
     "scripts": {
         "test": "phpunit"
