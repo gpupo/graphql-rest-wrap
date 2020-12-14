@@ -3,12 +3,12 @@ layout: default
 ---
 Common PHP tool for require-dev env
 
-[![Build Status](https://secure.travis-ci.org/gpupo/graphql-rest-wrap.png?branch=master)](http://travis-ci.org/gpupo/graphql-rest-wrap)
+[![Build Status](https://secure.travis-ci.org/gpupo/graphql-rest-wrap.png?branch=main)](http://travis-ci.org/gpupo/graphql-rest-wrap)
 [![Actions Status](https://github.com/gpupo/graphql-rest-wrap/workflows/CI/badge.svg)](https://github.com/gpupo/graphql-rest-wrap/actions)
 
 ## Requisitos para uso
 
-* PHP *>=7.4*
+* PHP *>=8.0*
 * [Composer Dependency Manager](http://getcomposer.org)
 
 Este componente **não é uma aplicação Stand Alone** e seu objetivo é ser utilizado como biblioteca.

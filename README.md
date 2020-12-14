@@ -1,6 +1,6 @@
 Wrap a REST API with GraphQ
 L
-[![Build Status](https://secure.travis-ci.org/gpupo/graphql-rest-wrap.png?branch=master)](http://travis-ci.org/gpupo/graphql-rest-wrap)
+[![Build Status](https://secure.travis-ci.org/gpupo/graphql-rest-wrap.png?branch=main)](http://travis-ci.org/gpupo/graphql-rest-wrap)
 [![Actions Status](https://github.com/gpupo/graphql-rest-wrap/workflows/CI/badge.svg)](https://github.com/gpupo/graphql-rest-wrap/actions)
 
 ## Requisitos para uso
