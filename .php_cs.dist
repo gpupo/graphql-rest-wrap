@@ -1,6 +1,6 @@
 <?php
 
-use Gpupo\GraphqlRestWrapExtra\CsConfigurator;
+use Gpupo\CommonDevExtra\CsConfigurator;
 
 $packageInfo = [
     'project' => 'gpupo/graphql-rest-wrap',
